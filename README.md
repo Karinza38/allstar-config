@@ -1,1 +1,1 @@
-# allstar-config
+allstar-config
